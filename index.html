@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<section class="posts">
+<ul>
+{% for post in site.posts %}
+	<li><a href="{{ site.baseurl }}{{ post.url }}"><b>{{ post.title }}</b></a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
+<li><i>{% if post.excerpt %}
+    {{ post.excerpt }}
+	{% endif %}</i></li>
+{% endfor %}
+</ul>
+</section>
+
