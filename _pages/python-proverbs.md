@@ -8,3 +8,4 @@ title: Python proverbs
 - When searching through a dictionary, `not in` > `in`
 - Always evaluate variables on the left side in an expression `list[i+1]-list[i] > 0` > `list[i+1] > list[i]`
 - Reduce things to **canonical representation** before comparing (strings, fractions, equations,...)
+- When itertaing over dictionaries while mutating them simultaneously, use `for k in d.keys()` and not `for k in d`
