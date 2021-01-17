@@ -27,3 +27,4 @@ title: Lectures
 
 - [Warren Siegel](http://insti.physics.sunysb.edu/~siegel/)
 - [Peter Norvig](http://www.norvig.com/)
+- [Keith Conrad - Expository papers](https://kconrad.math.uconn.edu/blurbs/)
