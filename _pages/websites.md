@@ -49,6 +49,7 @@ title: Websites
 - [CMD cs](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/)
 - [Command line bootcamp - UNIX](http://rik.smith-unna.com/command_line_bootcamp/)
 - [30 seconds of code - Javascript](https://30secondsofcode.org/)
+- [10 Linux Mini-Projects](https://carltheperson.com/posts/10-things-linux)
 
 ## Productivity
 
@@ -57,6 +58,7 @@ title: Websites
 - [Useful tools](https://trolologuy.github.io/useful-tools/)
 - [Autosmry - AText summarizer](https://www.brucemeng.ca/project/autosmry/)
 - [Coggle - Create fast flow diagrams](https://coggle.it/)
+- [Sankey diagrams](http://sankeymatic.com/)
 - [RAWGraphs - Visulaize data in browser](https://rawgraphs.io/)
 - [Loom - Record desktop sessions](https://www.useloom.com/)
 - [Asana - Teamwork console](https://asana.com/)
@@ -67,6 +69,12 @@ title: Websites
 - [PDF Wrench - Locally merge PDFs](https://pdfwrench.com/)
 - [XODO - Sign PDFs online](https://www.xodo.com/)
 - [Pasteboard - Share images](https://pasteboard.co/)
+
+## Curl data from terminal
+
+- [0x0.st](https://0x0.st/)
+- [Termbin](https://termbin.com/)
+- [Transfer - Use from shell](https://transfer.sh/)
 
 ## Data
 
@@ -106,6 +114,8 @@ title: Websites
 - [SMTRL - Website that programs itself](https://www.strml.net/)
 - [Every Noise - Explore random genres of music and artists](http://everynoise.com/)
 - [Hackertyper - Fool a friend](https://hackertyper.net/)
+- [17776](https://www.sbnation.com/a/17776-football/chapter-1)
+- [20020](https://www.sbnation.com/secret-base/21410129/20020/)
 
 ## Info sites
 

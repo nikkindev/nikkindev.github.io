@@ -22,3 +22,10 @@ From [CS Theory toolkit](https://www.youtube.com/watch?v=YFUIPg8P2sY&list=PLm3J0
 - Instead of `\begin{eqnarray}`, use `\begin{align}`
 
 - Always include `\usepackage{float}` for activating the placement specifiers for figures. Ex. `\begin{figure}[H]...`
+
+- To include bib file in Texmaker, [tex.stackexchange link](https://tex.stackexchange.com/questions/119805/bibliography-in-texmaker)
+
+- [Biblatex in a nutshell](https://tex.stackexchange.com/questions/13509/biblatex-in-a-nutshell-for-beginners)
+
+- To use biblatex (instead of bibtex) in TeXMaker, Options --> Configure Texmaker --> Commands --> Bib(la)tex, replace *bibtex %.aux* with *biber %*. Under Quick Build, choose *PdfLaTeX + Bib(la)tex + PdfLaTeX (x2) + View Pdf*  
+Note: Takes more time to compile 
